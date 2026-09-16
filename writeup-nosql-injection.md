@@ -1,6 +1,6 @@
 # NoSQL Injection — Auth Bypass qua Type Confusion & JSON Re-parsing
 
-Challenge Node.js/Express + MongoDB (Mongoose), có vẻ là bài trên picoCTF (email seed user là `picoplayer355@picoctf.org`). App có login form và trả token/flag ngay trong response khi login thành công.
+ App có login form và trả token/flag ngay trong response khi login thành công.
 
 Đoạn code xử lý login lộ ra trong source:
 
